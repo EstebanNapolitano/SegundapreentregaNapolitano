@@ -1,0 +1,5 @@
+setup.py
+SegundapreentregaNapolitano.egg-info/PKG-INFO
+SegundapreentregaNapolitano.egg-info/SOURCES.txt
+SegundapreentregaNapolitano.egg-info/dependency_links.txt
+SegundapreentregaNapolitano.egg-info/top_level.txt
